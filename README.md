@@ -1,3 +1,7 @@
+<p align="center">
+ <img width="225" src="https://github.com/yyz945947732/eslint-plugin-wittgenstein/blob/master/assets/wittgenstein.jpeg" />
+</p>
+
 # eslint-plugin-wittgenstein
 
 ![CI](https://github.com/yyz945947732/eslint-plugin-wittgenstein/actions/workflows/test.yml/badge.svg)
@@ -7,7 +11,7 @@
 Make sure you use semantic variable names.
 
 ```JS
-❌ const show = true; 
+❌ const show = true;
 👌 const isShow = true;
 ```
 
