@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "wittgenstein"
+  ],
+  "extends": [
+    "plugin:wittgenstein/recommended"
+  ]
+}

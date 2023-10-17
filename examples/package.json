@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-wittgenstein-example",
+  "version": "1.0.0",
+  "description": "Some example of usage of plugin",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-plugin-wittgenstein": ".."
+  }
+}
