@@ -40,11 +40,12 @@ Then configure the rules you want to use under the rules section.
 
 💡 Manually fixable by [editor suggestions](https://eslint.org/docs/developer-guide/working-with-rules#providing-suggestions).
 
-| Name                                                         | Description                                                     | 💡  |
-| :----------------------------------------------------------- | :-------------------------------------------------------------- | :-- |
-| [variable-name-array](docs/rules/variable-name-array.md)     | Make sure your array type variable name ends with `List` or `s` | 💡  |
-| [variable-name-boolean](docs/rules/variable-name-boolean.md) | Make sure your boolean type variable name start with `is`       | 💡  |
-| [variable-name-regex](docs/rules/variable-name-regex.md)     | Make sure your regex type variable name ends with `Regex`       | 💡  |
+| Name                                                         | Description                                                      | 💡  |
+| :----------------------------------------------------------- | :--------------------------------------------------------------- | :-- |
+| [variable-name-array](docs/rules/variable-name-array.md)     | Make sure your array type variable name ends with `List` or `s`. | 💡  |
+| [variable-name-boolean](docs/rules/variable-name-boolean.md) | Make sure your boolean type variable name start with `is`.       | 💡  |
+| [variable-name-getter](docs/rules/variable-name-getter.md)   | Make sure your getter function name start with `get`.            | 💡  |
+| [variable-name-regex](docs/rules/variable-name-regex.md)     | Make sure your regex type variable name ends with `Regex`.       | 💡  |
 
 ## LICENSE
 
