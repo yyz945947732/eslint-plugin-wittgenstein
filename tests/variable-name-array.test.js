@@ -18,6 +18,12 @@ ruleTester.run("variable-name-array", rule, {
       code: "const studentList = [];",
     },
     {
+      code: "const studentList = new Array(5);",
+    },
+    {
+      code: "const studentList = Array(5);",
+    },
+    {
       code: "const STUDENTS = [];",
     },
     {
@@ -46,6 +52,15 @@ ruleTester.run("variable-name-array", rule, {
     },
     {
       code: "const student = Array(10);",
+      errors: [
+        {
+          message:
+            "It is recommended to use `studentList` instead of `student` for this variable name.",
+        },
+      ],
+    },
+    {
+      code: "const student = new Array(10);",
       errors: [
         {
           message:
