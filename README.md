@@ -7,7 +7,9 @@
 <div align="center">
 
 ![CI](https://github.com/yyz945947732/eslint-plugin-wittgenstein/actions/workflows/test.yml/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/yyz945947732/eslint-plugin-wittgenstein/badge.svg?branch=master)](https://coveralls.io/github/yyz945947732/eslint-plugin-wittgenstein?branch=master)
 [![NPM version](https://img.shields.io/npm/v/eslint-plugin-wittgenstein.svg?logo=npm&logoColor=fff)](https://npmjs.org/package/eslint-plugin-wittgenstein)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yyz945947732/eslint-plugin-wittgenstein/pulls)
 [![License](https://img.shields.io/github/license/yyz945947732/eslint-plugin-wittgenstein.svg?style=flat)](https://github.com/yyz945947732/eslint-plugin-wittgenstein/blob/master/LICENSE)
 
 </div>
