@@ -2,11 +2,15 @@
  <img width="225" src="https://github.com/yyz945947732/eslint-plugin-wittgenstein/blob/master/assets/wittgenstein.jpeg" />
 </p>
 
-# eslint-plugin-wittgenstein
+<h1 align="center">eslint-plugin-wittgenstein</h1>
+
+<div align="center">
 
 ![CI](https://github.com/yyz945947732/eslint-plugin-wittgenstein/actions/workflows/test.yml/badge.svg)
 [![NPM version](https://img.shields.io/npm/v/eslint-plugin-wittgenstein.svg?logo=npm&logoColor=fff)](https://npmjs.org/package/eslint-plugin-wittgenstein)
 [![License](https://img.shields.io/github/license/yyz945947732/eslint-plugin-wittgenstein.svg?style=flat)](https://github.com/yyz945947732/eslint-plugin-wittgenstein/blob/master/LICENSE)
+
+</div>
 
 Make sure you use semantic variable names.
 
