@@ -2,8 +2,6 @@
 
 💡 This rule is manually fixable by [editor suggestions](https://eslint.org/docs/developer-guide/working-with-rules#providing-suggestions).
 
-<!-- end auto-generated rule header -->
-
 ## Rule Details
 
 This rule aims to make sure you RegExp variable name is end with `Regex`.
