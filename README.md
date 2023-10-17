@@ -18,7 +18,15 @@ npm install eslint-plugin-wittgenstein --save-dev
 
 ## Usage
 
-Add `wittgenstein` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+On your `.eslintrc` file extend the plugin's recommended configuration:
+
+```json
+{
+  "extends": ["plugin:wittgenstein/recommended"]
+}
+```
+
+If you want to use your own configuration, you can do so by adding the plugin to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
