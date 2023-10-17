@@ -18,4 +18,3 @@ Examples of **correct** code for this rule:
 const students = [];
 const studentList = [];
 ```
-
