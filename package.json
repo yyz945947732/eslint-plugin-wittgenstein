@@ -16,6 +16,10 @@
   "author": "yyz945947732 <945947732@qq.com>",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
+  "files": [
+    "lib",
+    "docs"
+  ],
   "scripts": {
     "lint": "npm-run-all \"lint:*\"",
     "lint:eslint-docs": "npm-run-all \"update:eslint-docs -- --check\"",
@@ -40,6 +44,14 @@
   },
   "peerDependencies": {
     "eslint": ">=7"
+  },
+  "bugs": {
+    "url": "https://github.com/yyz945947732/eslint-plugin-wittgenstein/issues"
+  },
+  "homepage": "https://github.com/yyz945947732/eslint-plugin-wittgenstein",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyz945947732/eslint-plugin-wittgenstein"
   },
   "license": "MIT"
 }
