@@ -1,6 +1,6 @@
 "use strict";
 
-const rule = require("../../../lib/rules/variable-name-array"),
+const rule = require("../lib/rules/variable-name-array"),
   RuleTester = require("eslint").RuleTester;
 
 const ruleTester = new RuleTester({

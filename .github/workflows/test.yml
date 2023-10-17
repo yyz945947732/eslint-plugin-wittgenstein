@@ -17,4 +17,9 @@ jobs:
         run: yarn
 
       - name: Test
-        run: yarn test
+        run: yarn test:cov
+
+      - name: Code coverage
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}

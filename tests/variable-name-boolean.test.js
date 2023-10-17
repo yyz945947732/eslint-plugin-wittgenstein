@@ -1,6 +1,6 @@
 "use strict";
 
-const rule = require("../../../lib/rules/variable-name-boolean"),
+const rule = require("../lib/rules/variable-name-boolean"),
   RuleTester = require("eslint").RuleTester;
 
 const ruleTester = new RuleTester({
