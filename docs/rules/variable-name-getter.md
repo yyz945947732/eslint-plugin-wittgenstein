@@ -12,6 +12,13 @@ Examples of **incorrect** code for this rule:
 function age() {
   return 18;
 }
+const sex = () => 18;
+const name = () => {
+  return "tony";
+};
+const num = function () {
+  return 99;
+};
 ```
 
 Examples of **correct** code for this rule:
@@ -20,4 +27,11 @@ Examples of **correct** code for this rule:
 function getAge() {
   return 18;
 }
+const getSex = () => 18;
+const getName = () => {
+  return "tony";
+};
+const getNum = function () {
+  return 99;
+};
 ```
