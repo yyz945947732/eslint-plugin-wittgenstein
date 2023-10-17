@@ -14,7 +14,7 @@
 
 </div>
 
-Make sure you use semantic variable names.
+This plugin intends to let you use semantic variable names when naming variables.
 
 ```JS
 ❌ const show = true;
