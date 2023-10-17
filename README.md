@@ -1,5 +1,9 @@
 # eslint-plugin-wittgenstein
 
+![CI](https://github.com/yyz945947732/eslint-plugin-wittgenstein/actions/workflows/test.yml/badge.svg)
+[![NPM version](https://img.shields.io/npm/v/eslint-plugin-wittgenstein.svg?style=flat)](https://npmjs.org/package/eslint-plugin-wittgenstein)
+[![License](https://img.shields.io/github/license/yyz945947732/eslint-plugin-wittgenstein.svg?style=flat)](https://github.com/yyz945947732/eslint-plugin-wittgenstein/blob/master/LICENSE)
+
 Make sure you use semantic variable names.
 
 ## Installation
