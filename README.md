@@ -74,6 +74,16 @@ Then configure the rules you want to use under the rules section.
 | [variable-name-getter](docs/rules/variable-name-getter.md)   | Make sure your getter function name start with `get`.            | 💡  |
 | [variable-name-regex](docs/rules/variable-name-regex.md)     | Make sure your regex type variable name ends with `Regex`.       | 💡  |
 
+## Contribution
+
+Contribution is welcome! There are many ways you could help:
+
+- Triaging Issues
+- Writing Code
+- Improving Doc
+
+If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/yyz945947732/eslint-plugin-wittgenstein/issues). Pull requests are also appreciated.
+
 ## LICENSE
 
 [MIT](https://github.com/yyz945947732/eslint-plugin-wittgenstein/blob/master/LICENSE)
